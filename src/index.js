@@ -1,5 +1,5 @@
-import Person from './Person';
-import Team from './Team';
+import Person from './js/Person';
+import Team from './js/Team';
 
 const character1 = new Person('Ann', 'Bowman', 50, 1, 40, 10);
 const character2 = new Person('Roman', 'Undead', 100, 1, 50, 5);
